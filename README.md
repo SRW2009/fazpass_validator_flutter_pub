@@ -1,16 +1,53 @@
 # devicevalidator
 
-A new Flutter project.
+A Flutter project for POC purpose.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Install required sdk (Android SDK, Flutter SDK)
+2. Clone the repository
+3. run `flutter pub get`
+4. connect a device
+5. run `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+## POC parameters
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### App debugging
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Install the app with `flutter run`
+2. Launch the app and check the app debugging status
+
+#### Expected
+
+App debugging status is true
+
+### App cloning
+
+1. Download cloning app in playstore (dualclone, etc.)
+2. Clone the app
+3. Launch the cloned app and check the app cloning status
+
+#### Expected
+
+App cloning status is true
+
+### Screen sharing
+
+1. Open google meet, start a meeting room (by yourself), then share your screen
+2. Allow google meet to record your screen
+3. Launch the app and check the screen sharing status
+
+#### Expected
+
+Screen sharing status is true
+
+### VPN Usage
+
+1. Download vpn app in playstore (hotspot shield, etc.)
+2. Open the vpn app and start the vpn service
+3. Allow your vpn app to register vpn profile
+4. After vpn is running, launch the app and check the vpn status
+
+#### Expected
+
+VPN usage status is true
