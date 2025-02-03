@@ -43,6 +43,8 @@ App cloning status is true
 
 Screen sharing status is true
 
+https://github.com/user-attachments/assets/63190410-0e68-40c0-a29e-4865622290a2
+
 ### VPN Usage
 
 1. Download vpn app in playstore (hotspot shield, etc.)
