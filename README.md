@@ -50,6 +50,8 @@ Screen sharing status is true
 3. Allow your vpn app to register vpn profile
 4. After vpn is running, launch the app and check the vpn status
 
+https://github.com/user-attachments/assets/cf4f1e17-606d-4e58-805d-62adb42c400c
+
 #### Expected
 
 VPN usage status is true
