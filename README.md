@@ -17,6 +17,8 @@ A Flutter project for POC purpose.
 1. Install the app with `flutter run`
 2. Launch the app and check the app debugging status
 
+[App debugging video](.github/assets/POC_app_debugging.mp4)
+
 #### Expected
 
 App debugging status is true
