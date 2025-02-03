@@ -1,6 +1,12 @@
-# devicevalidator
+# Device Intelligence Android POC App
 
 A Flutter project for POC purpose.
+
+![Screenshot_1](https://github.com/user-attachments/assets/99e3a30b-6619-4098-a047-5f2a393e9d4b)
+![Screenshot_2](https://github.com/user-attachments/assets/86b548f7-55da-473b-a6e5-03f9f2d55aa8)
+![Screenshot_3](https://github.com/user-attachments/assets/ac12924c-6aa7-4e4e-979f-3ea3f07aad31)
+![Screenshot_4](https://github.com/user-attachments/assets/ab6fa300-3828-4ca3-b6d9-3f7108090081)
+![Screenshot_5](https://github.com/user-attachments/assets/739c1839-3f31-4b74-87a0-3244e6ab6bca)
 
 ## Getting Started
 
@@ -32,6 +38,8 @@ https://github.com/user-attachments/assets/23fca1fc-547c-4061-8bc7-561881da2932
 #### Expected
 
 App cloning status is true
+
+https://github.com/user-attachments/assets/22dbbc89-4b19-4078-baf2-6f42c08144aa
 
 ### Screen sharing
 
