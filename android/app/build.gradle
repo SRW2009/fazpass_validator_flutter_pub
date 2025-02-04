@@ -57,5 +57,5 @@ flutter {
 }
 
 dependencies {
-    implementation 'com.github.fazpass-sdk:android-trusted-device-v2:bengal-v3'
+    implementation 'com.keypaz:android_trusted_device_v2:bengal-v3'
 }
