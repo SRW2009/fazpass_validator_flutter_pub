@@ -57,17 +57,28 @@ https://github.com/user-attachments/assets/cf4f1e17-606d-4e58-805d-62adb42c400c
 
 1. Install required sdk (Android SDK, Flutter SDK)
 2. Clone the repository
-3. run `flutter pub get`
-4. connect a device
-5. run `flutter run`
+3. Run `flutter pub get`
+4. Connect a device
+5. Run `flutter run`
 
 ### App debugging
 
-1. Install the app with `flutter run`
-2. Launch the app and check the app debugging status
+1. Run the app
+2. Check the app debugging status
 
 #### Expected
 
 App debugging status is true
 
 https://github.com/user-attachments/assets/23fca1fc-547c-4061-8bc7-561881da2932
+
+### Device is emulator
+
+1. Run the app with an emulator device
+2. Check the app emulator status
+
+#### Expected
+
+App emulator status is true
+
+https://github.com/user-attachments/assets/fb568759-1c8b-4def-929e-280fae3a1a99
