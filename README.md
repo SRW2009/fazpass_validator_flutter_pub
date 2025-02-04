@@ -57,9 +57,9 @@ https://github.com/user-attachments/assets/cf4f1e17-606d-4e58-805d-62adb42c400c
 
 1. Install required sdk (Android SDK, Flutter SDK)
 2. Clone the repository
-3. run `flutter pub get`
-4. connect a device
-5. run `flutter run`
+3. Run `flutter pub get`
+4. Connect a device
+5. Run `flutter run`
 
 ### App debugging
 
