@@ -8,24 +8,11 @@ Input Number                         | Loading                         | Result 
 
 ## Getting Started
 
-1. Install required sdk (Android SDK, Flutter SDK)
-2. Clone the repository
-3. run `flutter pub get`
-4. connect a device
-5. run `flutter run`
+Download the app on the playstore
+
+[Fazpass Seamless](https://play.google.com/store/apps/details?id=com.fazpass.devicevalidator)
 
 ## POC parameters
-
-### App debugging
-
-1. Install the app with `flutter run`
-2. Launch the app and check the app debugging status
-
-#### Expected
-
-App debugging status is true
-
-https://github.com/user-attachments/assets/23fca1fc-547c-4061-8bc7-561881da2932
 
 ### App cloning
 
